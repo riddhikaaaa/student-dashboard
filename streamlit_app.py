@@ -33,7 +33,7 @@ not treated as an automated pass/fail decision.
 """)
 
 MODEL_DIR = "dashboard_models"
-FORMATS = ["TMA", "CMA", "Exam"]
+FORMATS = ["CMA", "Exam"]
 DEMO_DIR = "demo_data"
 
 KNOWN_FAIRNESS_GAPS = {
